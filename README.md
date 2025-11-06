@@ -4,4 +4,6 @@ Assistance to the HSE case team
     This is my open repository with codes for the bot, server and client for the case of the HSE Olympiad team.
 
   это логотип и аватарка для бота 
+
+  
   <img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/f12f5ff3-da6d-49dd-b928-b030104c1bea" />

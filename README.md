@@ -10,5 +10,5 @@ this is the logo and avatar for the bot
 
 
 
-the launch sequence:
-server -> bot -> console(optional)
+    the launch sequence:
+    server -> bot -> console(optional)
